@@ -1,4 +1,4 @@
-# Week 03: Huffman Encoding
+# Week 04: Dynamic Programming
 
 The assignment can be found in the Jupyter notebook named [assignment.ipynb](./assignment.ipynb).
 
